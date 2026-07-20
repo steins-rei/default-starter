@@ -1,0 +1,16 @@
+@mixin full-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin flex-col() {
+  display: flex;
+  flex-direction: column;
+}
+
+@mixin limit-width($min, $default, $max) {
+  min-width: $min;
+  width: $default;
+  max-width: $max;
+}

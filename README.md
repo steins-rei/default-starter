@@ -5,3 +5,4 @@ by [ STEINS REI ]
 - Folder structures
 - Pre-installed packages
 - Configured config files
+- Pre-built mixins
